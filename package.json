@@ -1,0 +1,25 @@
+{
+  "name": "sum-to-n",
+  "version": "1.0.0",
+  "description": "simple function to calculate the sum from 1 to n",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinaberlin/sum-to-n.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Alina Ghetler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alinaberlin/sum-to-n/issues"
+  },
+  "homepage": "https://github.com/alinaberlin/sum-to-n#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
